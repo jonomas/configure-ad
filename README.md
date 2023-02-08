@@ -31,7 +31,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/15gmCrm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is the process of installing Active Directory and promoting it to a DOmain COntroller
+This is the process of installing Active Directory and promoting it to a Domain Controller
 </p>
 <br />
 
@@ -39,7 +39,7 @@ This is the process of installing Active Directory and promoting it to a DOmain 
 <img src="https://i.imgur.com/sDUDjXn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After linking both VM's by making the private ip of the Domain Controller the dns server of the windows machine, you connect them from the wondows VM
+After linking both VM's by making the private ip of the Domain Controller the dns server of the windows machine, you connect them from the windows VM
 </p>
 <br />
 
